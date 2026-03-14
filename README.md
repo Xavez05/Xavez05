@@ -1,135 +1,221 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Antony Chávez</h1>
+<h3 align="center">Backend Developer · Java · Go · Spring Boot · Guatemala 🇬🇹</h3>
 
-```
-╔══════════════════════════════════════════════════════╗
-║          ANTONY RAÚL CHÁVEZ PEREZ                    ║
-║          Backend Developer  ·  5+ años de exp.       ║
-║          Guatemala (GMT-6)                           ║
-╚══════════════════════════════════════════════════════╝
-```
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonychavez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonychavez)
-[![Email](https://img.shields.io/badge/Email-antonyxavez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonyxavez@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-+502_4882_1181-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50248821181)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Xavez05&label=Profile%20views&color=0e75b6&style=flat" alt="Xavez05" />
+</p>
 
-</div>
-
----
-
-## 👋 Sobre mí
-
-Soy un **Backend Developer** con más de **5 años de experiencia** construyendo sistemas robustos para los sectores de **Telefonía** y **Fintech** en Guatemala. Me especializo en Java y Go, con experiencia sólida en arquitecturas de microservicios, APIs REST, y bases de datos relacionales y no relacionales.
-
-Trabajo bajo metodologías ágiles (**SCRUM**) y disfruto resolver problemas complejos con código limpio, bien probado y listo para producción.
+- 🔭 Currently working at **Tribal Worldwide Guatemala** as a Backend Developer with Go
+- 🌱 Deepening my skills in **Kubernetes, microservices and distributed architectures**
+- 💼 Open to **freelance Backend projects with Java and Go**
+- 💬 Ask me about **Java, Spring Boot, Go, Microservices, Docker**
+- 📫 Reach me at: **antonyxavez@gmail.com**
+- 📍 El Progreso, Guatemala (GMT-6)
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🌐 Connect with me
 
-### Lenguajes
-![Java](https://img.shields.io/badge/Java-Avanzado-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Intermedio-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Avanzado-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermedio-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermedio-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Intermedio-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### Frameworks & Plataformas
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Avanzado-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-Avanzado-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-Avanzado-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Intermedio-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-Intermedio-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Liferay](https://img.shields.io/badge/Liferay-Intermedio-0072C3?style=flat-square)
-
-### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-Avanzado-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Avanzado-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Avanzado-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermedio-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/CosmosDB-Intermedio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-### DevOps & Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/antonychavez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:antonyxavez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/50248821181">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Experiencia destacada
+## 🛠️ Tools & Technologies
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Tribal Worldwide Guatemala       Ago 2023 – Presente           │
-│  Backend Developer                                              │
-│  Go · Docker · Kubernetes · SQL Server · MongoDB                │
-│                                                                 │
-│  → Microservicios para consumo de APIs externas                 │
-│  → Pruebas unitarias de módulos API                             │
-└─────────────────────────────────────────────────────────────────┘
+### ⚙️ Frameworks & Platforms
 
-┌─────────────────────────────────────────────────────────────────┐
-│  Cooperativa Guayacán             May 2022 – Ago 2023           │
-│  Programador PHP                                                │
-│  Laravel · PHP · Vue.js · JavaScript · MySQL                   │
-│                                                                 │
-│  → Módulos de consulta y gestión para socios                    │
-└─────────────────────────────────────────────────────────────────┘
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+      </a>
+      <br/>Spring Boot
+    </td>
+    <td align="center" width="100">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+      </a>
+      <br/>React
+    </td>
+    <td align="center" width="100">
+      <a href="https://angular.io" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+      </a>
+      <br/>Angular
+    </td>
+    <td align="center" width="100">
+      <a href="https://vuejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+      </a>
+      <br/>Vue.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://laravel.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+      </a>
+      <br/>Laravel
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.rabbitmq.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+      </a>
+      <br/>RabbitMQ
+    </td>
+    <td align="center" width="100">
+      <a href="https://azure.microsoft.com/en-us/products/functions" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure functions" width="40" height="40"/>
+      </a>
+      <br/>Azure Functions
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.liferay.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/liferay/liferay-icon.svg" alt="liferay" width="40" height="40"/>
+      </a>
+      <br/>Liferay
+    </td>
+  </tr>
+</table>
 
-┌─────────────────────────────────────────────────────────────────┐
-│  TPP eMarketing                   Feb 2020 – Abr 2022           │
-│  Programador Java y Web                                         │
-│  Java · Spring Boot · React · Azure Functions · CosmosDB        │
-│                                                                 │
-│  → Herramienta de estimación de bienes para banca               │
-│  → API de reporte de fallas telefónicas con Azure Functions      │
-└─────────────────────────────────────────────────────────────────┘
+### ☁️ DevOps & Cloud
 
-┌─────────────────────────────────────────────────────────────────┐
-│  ByteSA                           Jul 2017 – Ene 2020           │
-│  Programador Java                                               │
-│  Java · Spring Boot · Angular · Oracle · MySQL                  │
-│                                                                 │
-│  → Sistema de inventarios para instalación telefónica           │
-│  → Optimización de API bancaria: reducción de tiempos en 60%    │
-└─────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+      </a>
+      <br/>Docker
+    </td>
+    <td align="center" width="100">
+      <a href="https://kubernetes.io" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+      </a>
+      <br/>Kubernetes
+    </td>
+    <td align="center" width="100">
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+      </a>
+      <br/>Azure
+    </td>
+    <td align="center" width="100">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <br/>Git
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+      </a>
+      <br/>MySQL
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.oracle.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+      </a>
+      <br/>Oracle
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
+      </a>
+      <br/>SQL Server
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+      <br/>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://azure.microsoft.com/en-us/products/cosmos-db" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="cosmosdb" width="40" height="40"/>
+      </a>
+      <br/>CosmosDB
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Proyectos destacados
+## 📊 GitHub Stats
 
-### 🏦 [Banking Microservices](https://github.com/Xavez05/devsu-test)
-Sistema bancario distribuido con arquitectura de microservicios.
-- **Stack:** Java 21 · Spring Boot 3 · RabbitMQ · MySQL · Docker Compose
-- Comunicación asíncrona entre servicios vía eventos
-- Pruebas unitarias con JUnit 5 y Mockito
-- CI/CD listo con Dockerfiles multi-stage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xavez05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Xavez05 stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavez05&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Xavez05&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="60%"/>
+</p>
 
 ---
 
-## 🎓 Formación & Certificaciones
+## 💼 Work Experience
 
-- 🎓 **Ingeniería en Ciencias y Sistemas** — Universidad Mariano Gálvez, Guatemala *(en curso)*
+**🏢 Tribal Worldwide Guatemala** — Backend Developer *(Aug 2023 – Present)*
+> Go · Docker · Kubernetes · SQL Server · MongoDB
+- Built microservices to consume external APIs, improving data delivery to client applications
+- Implemented unit tests to validate API modules and ensure service reliability
+
+**🏢 Cooperativa Guayacán** — PHP Developer *(May 2022 – Aug 2023)*
+> Laravel · PHP · Vue.js · JavaScript · MySQL
+- Developed modules for querying and managing member data, streamlining internal operations for staff
+
+**🏢 TPP eMarketing** — Java & Web Developer *(Feb 2020 – Apr 2022)*
+> Java · Spring Boot · React · Azure Functions · CosmosDB · Liferay
+- Built an asset valuation tool for banking agents, automating manual estimation processes
+- Developed a regional phone failure reporting API using Azure Functions, reducing resolution times
+
+**🏢 ByteSA** — Java Developer *(Jul 2017 – Jan 2020)*
+> Java · Spring Boot · Angular · Oracle · MySQL
+- Extended an inventory management system for telecom installation teams
+- Optimized a financial core banking API, achieving a **60% reduction in query response times**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 [Banking Microservices System](https://github.com/Xavez05/devsu-test)
+> Distributed banking system built with microservices architecture using Spring Boot 3, Java 21, RabbitMQ, MySQL, and Docker Compose. Includes async event-driven communication, REST APIs, and unit tests with JUnit 5 & Mockito.
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.S. in Computer Science & Systems Engineering** — Universidad Mariano Gálvez, Guatemala *(In progress)*
 - 📜 **Scrum Foundation Professional Certificate (SFPC™)** — CertiProf, 2023
 
 ---
 
-## 🌐 Idiomas
-
-| Idioma   | Nivel  |
-|----------|--------|
-| Español  | Nativo |
-| Inglés   | Basico |
-
----
-
-<div align="center">
-
-*Disponible para proyectos freelance de Backend · Java · Go · Spring Boot*
-
-[![Visitors](https://komarev.com/ghpvc/?username=Xavez05&color=brightgreen&style=flat-square)](https://github.com/Xavez05)
-
-</div>
+<p align="center">
+  <i>💡 Available for freelance Backend projects · Java · Go · Spring Boot · Microservices</i>
+</p>
