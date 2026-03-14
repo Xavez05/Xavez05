@@ -211,7 +211,9 @@
 > E-commerce backend with microservices, Spring Cloud Eureka, API Gateway, security service and Docker Compose.
 
 ### 🏪 [Marketplace Microservices](https://github.com/Xavez05/marketplace-microservices)
-> Full-stack marketplace with Spring Cloud microservices backend and React 18 + Vite + Tailwind CSS frontend with JWT authentication.****
+> Full-stack marketplace with Spring Cloud microservices backend and React 18 + Vite + Tailwind CSS frontend with JWT authentication.
+
+
 ---
 
 ## 🎓 Education & Certifications
