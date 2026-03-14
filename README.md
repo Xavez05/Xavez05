@@ -204,9 +204,14 @@
 
 ## 🚀 Featured Projects
 
-### 🏦 [Banking Microservices System](https://github.com/Xavez05/devsu-test)
-> Distributed banking system built with microservices architecture using Spring Boot 3, Java 21, RabbitMQ, MySQL, and Docker Compose. Includes async event-driven communication, REST APIs, and unit tests with JUnit 5 & Mockito.
+### 🏦 [Banking Microservices API](https://github.com/Xavez05/banking-microservices-api)
+> Distributed banking system built with microservices, Spring Boot 3, Java 21, RabbitMQ, MySQL and Docker Compose. Includes async event-driven communication, REST APIs, and unit tests with JUnit 5 & Mockito.
 
+### 🛒 [E-Commerce Microservices API](https://github.com/Xavez05/ecommerce-microservices-api)
+> E-commerce backend with microservices, Spring Cloud Eureka, API Gateway, security service and Docker Compose.
+
+### 🏪 [Marketplace Microservices](https://github.com/Xavez05/marketplace-microservices)
+> Full-stack marketplace with Spring Cloud microservices backend and React 18 + Vite + Tailwind CSS frontend with JWT authentication.****
 ---
 
 ## 🎓 Education & Certifications
